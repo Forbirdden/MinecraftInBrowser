@@ -1,5 +1,3 @@
-# Minecraft In Browser
-
 ## EaglerCraft(X)
 The best browser remake of Minecraft
 ### Official links
