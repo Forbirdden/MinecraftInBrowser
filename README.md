@@ -9,7 +9,7 @@ The best browser remake of Minecraft
 ### Mirrors
 Use only if common links not working
 
-[Play 1.8.8](https://mess.eu.org/1.8.8/) [Play 1.5.2](https://mess.eu.org/1.5.2/)
+[Play 1.8.8](https://mess.eu.org/1.8.8/) [Play 1.5.2](https://happinessad.github.io/html/)
 
 ## Minecraft Scratch Edition
 3D Minecarft remake made in Scratch
