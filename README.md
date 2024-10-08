@@ -8,6 +8,7 @@ The best browser remake of Minecraft
 [Play Beta 1.7.3](https://eaglercraft.com/mc/b1.7.3/) [Play Alpha 1.2.6](https://eaglercraft.com/mc/a1.2.6/) [Play Indev](https://eaglercraft.com/mc/indev/)
 ### Mirrors
 Use only if common links not working
+
 [Play 1.8.8](https://mess.eu.org/1.8.8/) [Play 1.5.2](https://mess.eu.org/1.5.2/)
 
 ## Minecraft Scratch Edition
@@ -16,8 +17,10 @@ Use only if common links not working
 [Play Turbowarp (Fast)](https://turbowarp.org/908626779) [Play Scratch (Slow)](https://scratch.mit.edu/projects/908626779/)
 ### Mirrors
 Use only if common links not working
+
 [Play mirror](https://eaglercraft.com/mc/scratch/)
 
 ## Minecraft Classic
 Official classic Minecarft
+
 [Play Classic](https://classic.minecraft.net/)
